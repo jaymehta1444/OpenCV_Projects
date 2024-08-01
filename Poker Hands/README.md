@@ -80,7 +80,7 @@ pip install -r requirements.txt
 
 1. Prepare your video:
 
-- Place your video file in the project directory. Or start your webcame
+- Place your video file in the project directory, or start your webcam.
 
 
 2. Run the Poker Hand Detector:
@@ -93,8 +93,6 @@ python Poker-hand-detector.py
 - The processed video with Poker Hand Detector will identifies cards and lable there ranks and suits and if there is exactly five cards in a hand then detect the type of hand.
 
 
-## Configuration
-- You can customize the confidence threshold for Poker hand detection by modifying the conf parameter in Poker=Hand-Detector.py. The default value is set to 0.5.
 ## Acknowledgements
 
  - [Ultralytics](https://github.com/ultralytics/ultralytics)
@@ -110,4 +108,4 @@ If you find any issues or have suggestions for improvements, feel free to create
 
 
 ## Contact
-For any questions or inquiries, please contact us at [ishita126jain@gmail.com](ishita126jain@gmail.com).
+For any questions or inquiries, please contact me at [jaymehta1444@gmail.com](jaymehta1444@gmail.com).
